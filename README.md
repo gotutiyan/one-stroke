@@ -1,7 +1,7 @@
 # one-stroke
 Processingで作成した一筆書きのゲームです。
 
-![info](/Users/gotoutakumi/Desktop/git/one-stroke/info.png)
+![info](./info.png)
 
 
 
